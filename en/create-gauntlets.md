@@ -1,18 +1,18 @@
-1. fire  
-2. ice  
-3. poison  
-4. shadow  
-5. lava  
-6. bonus  
-7. chaos  
-8. demon  
-9. time  
-10. Crystal  
-11. magic  
-12. spike  
-13. monster  
-14. doom  
-15. death  
+1. Fire Gauntlet  
+2. Ice Gauntlet  
+3. Poison Gauntlet  
+4. Shadow Gauntlet  
+5. Lava Gauntlet    
+6. Bonus Gauntlet     
+7. Chaos Gauntlet  
+8. Demon Gauntlet  
+9. Time Gauntlet  
+10. Crystal Gauntlet  
+11. Magic Gauntlet  
+12. Spike Gauntlet  
+13. Monster Gauntlet  
+14. Doom Gauntlet  
+15. Death Gauntlet  
 
 ---
 
@@ -20,10 +20,10 @@ Creating gauntlets is fairly easy and is actually super simple.
   
 First go to gauntlets in your database as shown here  
 ![img](https://cdn.discordapp.com/attachments/743027678046846999/781569736319303720/unknown.png)
-it will display some stuff in the top (middle upper corner)  
+It will display some stuff in the top (middle upper corner)  
 choose insert as you want to make a new one.  
 ![img](https://cdn.discordapp.com/attachments/743027678046846999/781569976170971156/unknown.png)  
-ID = the gauntlet, gauntlet ÍD's are displayed above  
+ID = the gauntlet, gauntlet ID's are displayed above . 
 level1,2,3,4,5 are the levels in the gauntlet  
 ex. level1 is the first one and level4 is the fourth one.  
   
