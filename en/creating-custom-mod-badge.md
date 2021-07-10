@@ -1,10 +1,9 @@
 ### **Important: for now this tutorial only on PC**
 
-1. Downloading [RAR archive](https://cdn.discordapp.com/attachments/702567317732589568/863182647471898674/Files.rar) (added: hd textures) 
+1. Download [this archive](https://cdn.discordapp.com/attachments/702567317732589568/863182647471898674/Files.rar) (added: hd textures) 
 Password: discord.gg/gdpsfh
-(Disable your antivirus, he will delete libcurl.dll)
 
-2. Throw all from folder throw in game folder into the game folder so everything is clear
+2. Throw all from folder `throw in game folder` into the game folder so everything is clear
 
 3. Open texture splitter and split GJ_GameSheet03-uhd.png or GJ_GameSheet03-hd.png
 
