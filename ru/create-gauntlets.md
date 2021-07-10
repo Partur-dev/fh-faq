@@ -1,4 +1,3 @@
-1. fire  
 1. Fire Gauntlet  
 2. Ice Gauntlet  
 3. Poison Gauntlet  
