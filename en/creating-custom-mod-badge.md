@@ -1,6 +1,6 @@
 ### **Important: for now this tutorial only on PC**
 
-1. Download [this archive](https://cdn.discordapp.com/attachments/702567317732589568/863182647471898674/Files.rar) (added: hd textures) 
+1. Download [this archive](https://cdn.discordapp.com/attachments/702567317732589568/863182647471898674/Files.rar) (HD/UHD Textures) 
 Password: discord.gg/gdpsfh
 
 2. Throw all from folder `throw in game folder` into the game folder so everything is clear
