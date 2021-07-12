@@ -1,23 +1,25 @@
-### Where do I use these commands?   
-You use them in the comment section of the level you want to do it.
+# GDPS Commands
+These commands can be used on a level in the comments section.  
+You should get an error when posting those, which usually means that using the command worked.
 
+##### The asterisk \* indicates that only moderators (with the right permission) may use the command. All other commands can be used by both moderators and level owners.
 ---
 
 | Command 	| Description 	|
 |:---:	|:---:	|
-| !rate  (NA,Auto,Easy,Normal,Hard,Harder,Insane,Demon) (Amount of Stars) 	| Оценивает уровень.  	|
-| !feature 	| Features the level. 	|
-| !epic 	| Epic Features the level. 	|
-| !unepic 	| Removes Epic feature from the level. 	|
-| !setacc (Account Name) 	| Sets the account the level should be on. 	|
-| !verifycoins 	| Verifies the coins in the level, making them silver instead of bronze. 	|
-| !daily 	| Sets the level as the Daily Level (Might not work right away) 	|
-| !weekly 	| Sets the level as the Weekly Demon (Might not work right away) 	|
+| \* !rate (Difficulty) (Amount of Stars)	| Rates the level.<br>Difficulty list:<br>NA, Auto, Easy, Normal, Hard, Harder, Insane, Demon	|
+| \* !feature 	| Features the level. 	|
+| \* !epic 	| Epic rates the level. 	|
+| \* !unepic 	| Removes Epic rate from the level. 	|
+| \* !setacc (Account Name) 	| Sets the account the level should be on. 	|
+| \* !verifycoins [0/1]	| Set if coins of the levels are collectable. <br>0 = Bronze (uncollectable), 1 = Silver (collectable)	|
+| \* !daily 	| Queues the level as a daily level. 	|
+| \* !weekly 	| Queues the level as a weekly level. 	|
 | !delete 	| Deletes the level from the servers. 	|
-| !pass (New Pass, Numbers only, 4-6 Characters) 	| Updates the level's password.  	|
-| !description (New Description) 	| Updates the level's description. 	|
-| !public 	| Makes the level public. 	|
-| !unlist 	| Makes the level unlisted/private. (Needs a ID to view it) 	|
-| !sharecp 	| Enables the sharing of Creator Points/CP. 	|
-| !ldm 	| Enables level LDM. 	|
-| !unldm 	| Disables level LDM. 	|
+| !pass (New Pass, Numbers only, 4-6 Characters) 	| Updates the level's password.<br>Set it to 0 to make it a free-copy level. 	|
+| !description (New Description) 	| Updates the level's description.<br>Special characters won't work due to a bug.	|
+| !public 	| Makes the level publicly visible.	|
+| !unlist 	| Makes the level unlisted/private. (Viewable only by level id)	|
+| !sharecp (who)	| Share Creator Points with another user. CP will be split equally.<br>(Only 1 other person may receive it).	|
+| !ldm 	| Enables level LDM button. 	|
+| !unldm 	| Disables level LDM button. 	|
