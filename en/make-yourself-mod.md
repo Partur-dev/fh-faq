@@ -24,4 +24,4 @@ At the top, you will see some row with buttons. Click on "insert".
 Then you would see something like this, fill in this and click the "Go" button.
 ![img](https://media.discordapp.net/attachments/772193555778240533/864581223601668106/unknown.png)
 
-So afterwords go back to your GDPS and request for mod, and tthen you should have Mod!
+So afterwords go back to your GDPS and request for mod, and then you should have Mod!
