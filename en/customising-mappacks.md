@@ -40,8 +40,8 @@ Below is a table explaining what each component represents
 | stars | the number of Stars rewarded for completing the pack  |
 | coins | The number of Secret Coins rewarded for completing the pack |
 | difficulty | The ID for the difficulty face - a table showing the ID's can be found below |
-| rgbcolors | The colour of the mappack text |
-| colors2 | The colour of the mappack bar |
+| rgbcolors | The colour of the mappack text - the colour is an [RGB Value](https://g.co/kgs/UZ5shP) |
+| colors2 | The colour of the mappack bar - the colour is an [RGB Value](https://g.co/kgs/UZ5shP) |
 
 ### **Difficulty Table**
 
