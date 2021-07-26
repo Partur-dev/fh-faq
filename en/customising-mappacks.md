@@ -2,15 +2,15 @@
 
 Mappacks are one of the few things that can be created easily using the tools page however this page doesn't give you full control over the mappacks
 
-![Mappack-tools-page](https://raw.githubusercontent.com/Wyliemaster/fh-faq/main/images/mappacks/tool.PNG)
+![Mappack-tools-page](https://raw.githubusercontent.com/Partur1/fh-faq/main/images/mappacks/tool.PNG)
 
 To fully customise mappacks, you will need to log into phpmyadmin and go to the mappack table
 
-![mappack-table](https://raw.githubusercontent.com/Wyliemaster/fh-faq/main/images/mappacks/database01.PNG)
+![mappack-table](https://raw.githubusercontent.com/Partur1/fh-faq/main/images/mappacks/database01.PNG)
 
 Once you enter the mappack table a list of created mappacks will be shown.
 
-![list-of-packs](https://raw.githubusercontent.com/Wyliemaster/fh-faq/main/images/mappacks/database02.PNG)
+![list-of-packs](https://raw.githubusercontent.com/Partur1/fh-faq/main/images/mappacks/database02.PNG)
 
 There are **2** ways you can proceed
 
@@ -20,15 +20,15 @@ There are **2** ways you can proceed
 
 To insert a new a new mappack you just need to click the `Insert` button at the top of the window and then you fill in the following information
 
-![insert](https://raw.githubusercontent.com/Wyliemaster/fh-faq/main/images/mappacks/insert.PNG)
+![insert](https://raw.githubusercontent.com/Partur1/fh-faq/main/images/mappacks/insert.PNG)
 
 Editing existing packs is quite similar however you click on the edit button that is prefixed to the start of the pack
 
-![edit](https://raw.githubusercontent.com/Wyliemaster/fh-faq/main/images/mappacks/edit.PNG)
+![edit](https://raw.githubusercontent.com/Partur1/fh-faq/main/images/mappacks/edit.PNG)
 
 After doing this, you will be presented with a similar screen
 
-![data](https://raw.githubusercontent.com/Wyliemaster/fh-faq/main/images/mappacks/data.PNG)
+![data](https://raw.githubusercontent.com/Partur1/fh-faq/main/images/mappacks/data.PNG)
 
 Below is a table explaining what each component represents
 
