@@ -13,7 +13,7 @@ If this didn't work out, you might want to follow the steps below then.
 
 #### Option 3: Use an APK installer from the Playstore
 As stupid as it sounds, this might work out for you.  
-There are various of APK installers, though some of them just plain redirect you to the package installer.  
+There are various APK installers on store, though some of them just plain redirect you to the package installer.  
 [From our testing, this one works so far.](https://play.google.com/store/apps/details?id=com.apkinstaller.ApkInstaller)
 
 #### Option 4: Resetting your GDPS and choose a different name
