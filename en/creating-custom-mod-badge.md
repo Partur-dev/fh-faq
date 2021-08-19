@@ -22,6 +22,7 @@ Scroll down and find "modBadge". Then enter 3 (or if you have file name modBadge
 
 7. Start the game and check your profile.
 ---
+NOTE: if you want to do this for mobile please continue to Apk stuff!
 ### **Screenshots:**
 
 

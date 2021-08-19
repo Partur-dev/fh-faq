@@ -1,1 +1,3 @@
-If you want to help us out by adding more FAQ's or improve anything, you can check out our [GitHub](https://github.com/Partur1/fh-faq) and make a pull request. Any help is welcome!
+Wanna Contribute? if yes then download the [GitHub repo](https://github.com/Partur1/fh-faq),open notepad and start writing it any help is welcome. <3
+## thanks!
+![img](https://cdn.discordapp.com/attachments/868223049680425030/877479413409804288/Thanks20for20Contributing.png)
