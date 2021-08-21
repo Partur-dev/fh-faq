@@ -11,3 +11,4 @@ we have what we need. now open up apkeasytool.exe and click on main tab, then cl
 ![img](https://cdn.discordapp.com/attachments/868223049680425030/877857507224215582/unknown.PNG)
 then select our apk
 ![img](https://cdn.discordapp.com/attachments/868223049680425030/877860982670651402/unknown2.PNG)
+--this is the end for now imma update when i have time k bye!--
