@@ -15,7 +15,7 @@ You should get an error when posting those, which usually means that using the c
 | \* !verifycoins [0/1]	| Set if coins of the levels are collectable. <br>0 = Bronze (uncollectable), 1 = Silver (collectable)	|
 | \* !daily 	| Queues the level as a daily level. 	|
 | \* !weekly 	| Queues the level as a weekly level. 	|
-| !delete 	| Deletes the level from the servers. 	|
+| \* !delete 	| Deletes the level from the servers. 	|
 | !pass (New Pass, Numbers only, 4-6 Characters) 	| Updates the level's password.<br>Set it to 0 to make it a free-copy level. 	|
 | !description (New Description) 	| Updates the level's description.<br>Special characters won't work due to a bug.	|
 | !public 	| Makes the level publicly visible.	|
@@ -23,3 +23,4 @@ You should get an error when posting those, which usually means that using the c
 | !sharecp (who)	| Share Creator Points with another user. CP will be split equally.<br>(Only 1 other person may receive it).	|
 | !ldm 	| Enables level LDM button. 	|
 | !unldm 	| Disables level LDM button. 	|
+| !rename (Level name) | Changes the level name to a level name specified. |
