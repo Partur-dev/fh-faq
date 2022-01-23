@@ -19,6 +19,7 @@ There are various APK installers on store, though some of them just plain redire
 #### Option 4: Resetting your GDPS and choose a different name
 If you made a fresh GDPS you'll most likely be able to simply delete it and make a new one.  
 For some odd reason, the name of the GDPS can corrupt the APK.  
+The only occurance that it can ***guaranteed*** break the APK is by starting the GDPS name using a digit, please avoid that.  
 We don't know why this happens but we are unable to check if it works right away before creating your GDPS.  
 Once you ran the `ps!delete` command in the **#gdps-creator-commands** channel, you will have to re-create your GDPS.  
 Please make sure to choose a different name, it might even work out if you change only 1 character!
